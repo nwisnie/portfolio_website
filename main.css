@@ -111,6 +111,27 @@ ul {
     padding: 20px;
 }
 
+.image-gallery {
+    display: flex;
+    justify-content: space-around; /* Space evenly between images */
+    text-align: center; /* Center the text below images */
+}
+.gallery-item {
+    flex: 1; /* Each item takes up an equal portion of the row */
+    margin: 20px; /* Add some space around the images */
+}
+.gallery-item img {
+    max-width: 100%; /* Ensure images scale well */
+    height: auto; /* Maintain aspect ratio */
+    border: 2px solid #ccc; /* Optional border for style */
+    /* border-radius: 8px; */
+}
+.description {
+    margin-top: 5px;
+    font-size: 1em;
+    color: #fffefedc; /* Subtle text color */
+}
+
 .video {
     flex: 1;
     max-width: 100%;
