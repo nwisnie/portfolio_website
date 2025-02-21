@@ -323,6 +323,14 @@
     font-size: 1.3rem;
     font-weight: 700;
 }
+
+.no_bullets {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;  /* Adds space between each list item */
+}
   
 .main__btn {
     font-size: 1.8rem;
@@ -386,7 +394,7 @@
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+    /* background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); */
 }
   
 .fa-layer-group,
@@ -403,6 +411,11 @@
     /* background: #fe3b6f; */
     /* background: -webkit-linear-gradient(to right, #dd2476, #ff512f);
     background: linear-gradient(to right, #dd2476, #ff512f); */
+}
+
+#card-3 {
+    height: 300px;
+    width: 500px;
 }
 
 .proj__img {
