@@ -23,14 +23,14 @@ const highlightMenu = () => {
         // aboutMenu.classList.remove('highlight');
         projectsMenu.classList.remove('highlight');
         return;
-    } else if (window.innerWidth > 960 && scrollPos < 2000) {
+    } else if (window.innerWidth > 960 && scrollPos < 2400) {
         // aboutMenu.classList.add('highlight');
         projectsMenu.classList.add('highlight');
         homeMenu.classList.remove('highlight');
         // projectsMenu.classList.remove('highlight');
         aboutMenu.classList.remove('highlight');
         return;
-    } else if (window.innerWidth > 960 && scrollPos < 2400) {
+    } else if (window.innerWidth > 960 && scrollPos < 3000) {
         // projectsMenu.classList.add('highlight');
         aboutMenu.classList.add('highlight');
         // aboutMenu.classList.remove('highlight');

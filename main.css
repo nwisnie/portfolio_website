@@ -5,7 +5,24 @@
     font-family: 'Kumbh Sans', sans-serif;
     scroll-behavior: smooth;
 }
+
+.cool_a {
+    font-size: 1.8rem;
+    color:#9823ff;
+}
+
+.cool_a:hover {
+    color:#a33bfe;
+}
+
+.cool_a:active {
+    color:#c932e8
+}
   
+.cool_a:visited {
+    color:#9823ff
+}
+
 .navbar {
     background: #131313;
     height: 80px;
