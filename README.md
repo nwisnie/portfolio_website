@@ -1,3 +1,4 @@
+Hello Prospective Employer,
 ✨🌙💀🔥~wElCoMe 2 My dArK & mYsTeRiOuS LaIr~🔥💀🌙✨
 
 ☠️💜🐱😼😻🐾😽🐱💜☠️
@@ -18,3 +19,8 @@
 
 🔥💀 sLiDe InTo My cOmMeNtS iF yOu DaRe... 💀🔥
 💌📩 AIM: xX_DaRkN3ko_Xx | MSN: nwisnie@purdue.edu 📩💌
+
+
+
+Thank you to Brian Design for the template for the website:
+https://github.com/briancodex/html-css-js-website-smooth-scroll
