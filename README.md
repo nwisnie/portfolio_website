@@ -1,24 +1,24 @@
-Hello Prospective Employer,
-✨🌙💀🔥wElCoMe 2 My dArK & mYsTeRiOuS WeBPagE🔥💀🌙✨
+Hello Prospective Employer,<br/>
+✨🌙💀🔥wElCoMe 2 My dArK & mYsTeRiOuS WeBPagE🔥💀🌙✨<br/>
 
-☠️💜🐱😼😻🐾😽🐱💜☠️
-🌙☆彡 MeOw MeOw, bRoKeN hEaRtS & SpArKLeS 彡☆🌙
-☠️💜🐱😼😻🐾😽🐱💜☠️
+☠️💜🐱😼😻🐾😽🐱💜☠️<br/>
+🌙☆彡 MeOw MeOw, bRoKeN hEaRtS & SpArKLeS 彡☆🌙<br/>
+☠️💜🐱😼😻🐾😽🐱💜☠️<br/>
 
-(=①ω①=) 🔥 YoU’vE jUsT sTePpEd InTo ThE wOrLd Of…🔥 (=①ω①=)
-✨⚡😼 ☆彡 THe oNe & oNly nOAh wISnIEwSkI 彡☆ 😼⚡✨
-🔥🐾🎸 KiCkInG aSs & cRaShInG cArTs sInCe 2003 🎸🐾🔥
+(=①ω①=) 🔥 YoU’vE jUsT sTePpEd InTo ThE wOrLd Of…🔥 (=①ω①=)<br/>
+✨⚡😼 ☆彡 THe oNe & oNly nOAh wISnIEwSkI 彡☆ 😼⚡✨<br/>
+🔥🐾🎸 KiCkInG aSs & cRaShInG cArTs sInCe 2003 🎸🐾🔥<br/>
 
-🎶🤘~~"MuSiC iS mY eScApE"~~🤘🎶
-💔💉DrOpPiNg BeAtS & ShAtTeRiNg DrEaMs💉💔
-🎧 🎵 COol PunK ROck MuSIc 🎵 🎧
+🎶🤘~~"MuSiC iS mY eScApE"~~🤘🎶<br/>
+💔💉DrOpPiNg BeAtS & ShAtTeRiNg DrEaMs💉💔<br/>
+🎧 🎵 COol PunK ROck MuSIc 🎵 🎧<br/>
 
-💥🥀💔 LoVe Is A mYtH, cAtS aRe FoReVeR 💔🥀💥
-ฅ^•ﻌ•^ฅ ฅ^•ﻌ•^ฅ ฅ^•ﻌ•^ฅ
-🐾😽✨ Petting cats & breaking hearts since day one ✨😽🐾
+💥🥀💔 LoVe Is A mYtH, cAtS aRe FoReVeR 💔🥀💥<br/>
+ฅ^•ﻌ•^ฅ ฅ^•ﻌ•^ฅ ฅ^•ﻌ•^ฅ<br/>
+🐾😽✨ Petting cats & breaking hearts since day one ✨😽🐾<br/>
 
-🔥💀 sLiDe InTo My cOmMeNtS iF yOu DaRe... 💀🔥
-💌📩 AIM: xX_DaRkN3ko_Xx | MSN: nwisnie@purdue.edu 📩💌
+🔥💀 sLiDe InTo My cOmMeNtS iF yOu DaRe... 💀🔥<br/>
+💌📩 AIM: xX_DaRkN3ko_Xx | MSN: nwisnie@purdue.edu 📩💌<br/>
 
 
 
